@@ -1,0 +1,59 @@
+
+Foco da história rostos e a percepção dos outros sobre o seu rosto e como a sua aparência muda a sua concepção na cabeça de outros e como isso afeta você
+
+Objetos colocados em sua cabeça que cobrem seu rosto completamente podem te amaldiçoar
+
+Amaldiçoados em geral tem algo de errado mentalmente com eles
+
+Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiçoados 
+
+<hr>
+<center> Mundo</center>
+<hr>
+
+Ladrões de rosto
+	seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.
+
+Tecnologia e desenvolvimento
+	Grandes centros como capitais são industrializadas ao nível da primeira revolução industrial, o resto das cidades são em sua maioria pre revolução industial.
+
+Estrutura das cidades e funcionamento de tais
+	Cidades em geral tem muralhas ao redor delas para manter os ladrões de rosto fora dela, com controle de entrada e saída estrito para não permitir que um entre e cause caos.
+	Plantações se encontram no exterior das muralhas para que tenham campos abertos ao redor de tais para manter os ladrões de rosto longe da entrada assim garantindo que haja tempo para fechar a cidade.
+	Cidades crescem ou de forma planejada, primeiro fazendo uma muralha ao redor da área de expansão para depois poder construirem industrias,comércios e casa, ou de forma não planejada, primeiro fazendo as casas, comércios e industrias e depois fazendo uma muralha ao redor.
+	Cidades em geral tentam ser autossuficientes pois comércio entre cidades não é suficiente para troca de quantidades largas de bens, devido ao uso extenso de carroagens e dos perigos de seres mágicos e outras pessoas
+
+<hr>
+<center>Personagens</center>
+<hr>
+
+Pumpkinght - Origem
+	quando criança sempre usava uma abóbora na cabeça para brincar que era um cavaleiro. Um dia, durante um eclipse solar, que faz os ladrões de rosto ficarem mais ativos e agressivos, seu vilarejo é atacado, ele estava brincando como normal, no momento que ele estava prestes a colocar uma abóbora na sua cabeça uma onda de ladrões de rostos surge da floresta, seu rosto é roubado, e no mesmo instante ele solta a abóbora e ela cobre a sua cabeça e oq antes era o seu rosto e por sorte ou azar a abóbora vira seu substituto, o mantendo vivo. Depois que o eclipse passou, quase todos morreram, só ele e mais umas pessoas que estavam com rostos cobertos ou cortaram uma boca para respirar sobreviveram. Os sobreviventes tiveram que abandonar o vilarejo, pegando tudo de valor para ir para o vilarejo mais proximo, o mesmo se encontra no mesmo estado, eles pegam o que der de suprimentos e vão para o proximo, essa jornada continua até chegarem em uma cidade grande que tem recebido pessoas no mesmo estado que o grupo do pumpkinght. Aqueles que conseguiram sobreviver à jornada longa tentam se adaptar e esse integrar na cidade, aqueles sem rosto fazem trabalhos manuais que não dependem  da visão, aqueles que não perderam seus rostos tentam achar quaisquer trabalhos, para o pumpkinght foi diferente do resto, ele foi detido  logo nos portões da cidade por ser um amaldiçoado. 
+
+Pumpkinght - Personalidade
+	tem problemas de identidade, devido ao seu rosto ser uma lembrança constante da pior época da sua vida, ele odeia ladroes de rosto
+
+Pumpkinght - situação atual
+	trabalha como caçador de criaturas mágicas e tenta achar uma forma de recuperar o seu rosto original, ele come, enxerga e respira pelos buracos da abóbora, a mesma sendo indestruitvel e impossivel de remover, ela basicamente faz parte do corpo dele. Ele tem treinamento em combate com espadas, caso ele esteja sem nenhuma arma ele usa cabeçadas, devido à situação abstrata de sua cabeça ele não sofre concussões, seu pescoço é muito forte.
+
+<hr>
+
+Pothead - Origem e Identidade
+	Ele tem um pote na cabeça, ele pode tirar-lo a qualaquer momento mas não faz isso. Ele era um soldado que gostava da guerra por que lhe dava liberdade para lutar e matar, depois que a guerra acabou ele decidiu que não queria voltar para a vida de paz e abandonou tudo e botou um pote na cabeça para apagar qualquer referencia à sua vida antiga, virando um ser novo que almeja somente a adrenalina da batalha, rejeitando sua humanidade voluntariamente.
+
+Pothead - Habilidades
+	Enquanto tiver com o pote na cabeça ele tem habilidades físicas sobrehumanas , se ele entrar em combate sua fome e sede são satisfeitas durante a luta.
+
+Pothead - Personalidade
+	Ele busca somente a batalha, enquanto ele não estiver lutando ele vaga pelo mundo, se a luta for boa ele talvez não te mate caso você perca para ele, isso é uma excessão muito rara. Ele não usa roupas além de uma cueca por que ele gosta da adrenalina de todo ataque recebido poder ser letal, ele se lembra de todas as suas cicatrizes e o que causou elas.
+
+<hr>
+
+Homem dos Sacos - Origem e Identidade
+	Ele estava na linha da forca por trafico humano e por padrão nesse mundo, eles cobriram seu rosto, no momento que ele ia ser enforcado a coisa que ele mais queria era ver as expressões das pessoas assistindo e a reação de tais, mesmo elas não sabendo quem ele era e qual era a sua expressão, ele sacrificaria tudo para poder ter uma última visão dessas. No instante que o chão saiu de baixo dos seus pés ele teve uma breve visão da plateia, curta demais para apreciar, e quando a corda fechou ao redor de seu pescoço ele foi sugado para dentro do saco, saindo em um outro saco identico em algum lugar aleatório, frustado com a gosto de paraíso que lhe foi tomado da sua lingua, agora tendo que viver no que seria uma tortura por ter que viver sem que os outros vejam as suas expressões e rosto, o que ele considera a alma humana.
+
+Homem dos Sacos - Habilidades
+	Se ele fechar o saco de sua cabeça ele é engolindo e sai de outro saco aleatorio que seja igual ao de sua cabeça que esteja aberto.
+
+Homem dos Sacos - Personalidade
+	Ele é um sadista que ver prazer nas expressões dos outros, quanto mais extremas prazer ele tira disso, ele não ver os sem rostos como humanos e não tem interesse algum neles. Ele não gosta de conflito e sempre que se encontra em um ele tende a fugir. Ele é cauteloso sobre por onde anda e evita aparecer em publico devido à sua fuga da sua execução, ele é um criminoso procurado.
