@@ -1,3 +1,6 @@
+<hr>
+	<center><h1><strong>Pumpknight</strong></h1></center>
+<hr>
 
 Foco da história rostos e a percepção dos outros sobre o seu rosto e como a sua aparência muda a sua concepção na cabeça de outros e como isso afeta você
 
@@ -8,7 +11,7 @@ Amaldiçoados em geral tem algo de errado mentalmente com eles
 Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiçoados 
 
 <hr>
-<center> Mundo</center>
+	<center><h2>Mundo</h2></center>
 <hr>
 
 Ladrões de rosto
@@ -24,7 +27,7 @@ Estrutura das cidades e funcionamento de tais
 	Cidades em geral tentam ser autossuficientes pois comércio entre cidades não é suficiente para troca de quantidades largas de bens, devido ao uso extenso de carroagens e dos perigos de seres mágicos e outras pessoas
 
 <hr>
-<center>Personagens</center>
+	<center><h2>Personagens</h2></center>
 <hr>
 
 Pumpkinght - Origem
