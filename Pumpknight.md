@@ -1,6 +1,9 @@
 <hr>
+<hr>
 	<center><h1><strong>Pumpknight</strong></h1></center>
 <hr>
+<hr>
+
 
 Foco da história rostos e a percepção dos outros sobre o seu rosto e como a sua aparência muda a sua concepção na cabeça de outros e como isso afeta você
 
@@ -9,6 +12,16 @@ Objetos colocados em sua cabeça que cobrem seu rosto completamente podem te ama
 Amaldiçoados em geral tem algo de errado mentalmente com eles
 
 Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiçoados 
+
+<hr>
+	<center><h2>Sistema</h2></center>
+<hr>
+
+<h3>Objetos  Amaldiçoados</h3>
+	Quando se coloca  um objeto em sua face ou na sua cabeça que cubra a sua face e você usa o mesmo como um rosto   para representar algo que não é você, como um personagem, um alter ego ou um outro ser ele tem uma chace de se tornar amaldicoado, te entregando o que vc desejava naquele momento de uma forma contorcida, isso acontece em grandes momentos da vida da pessoa botando aquele objeto, criando um lembrete permanente daquele evento.
+
+<h3>Mascaras</h3>
+	Ao usar uma máscara não para personificar um outro ser mas apenas como uma ferramenta ou acessório você ganha parcialmente as habilidades daquilo que a máscara representa. Uso repetido de uma máscara só acaba dando ao usuário características daquilo que a máscara representa. Uso de várias máscaras diferentes faz seu rosto lentamente ficar genérico, perdendo suas feições únicas se tornando uma pessoa mediana da sua raça, as pessoas que sofrem isso ficam com rostos iguais, exceto por coisas como cicatrizes que não são naturais do rosto.
 
 <hr>
 	<center><h2>Mundo</h2></center>
@@ -60,3 +73,11 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 
 <h3>Homem dos Sacos - Personalidade</h3>
 	Ele é um sadista que ver prazer nas expressões dos outros, quanto mais extremas prazer ele tira disso, ele não ver os sem rostos como humanos e não tem interesse algum neles. Ele não gosta de conflito e sempre que se encontra em um ele tende a fugir. Ele é cauteloso sobre por onde anda e evita aparecer em publico devido à sua fuga da sua execução, ele é um criminoso procurado.
+
+<hr>
+
+<h3>Aprosopon, o homem de mil faces -  Origem e Identidade</h3>
+	Um homem ganancioso que se apropriou do poder dos ladrões de rosto, nem ele mesmo se lembra do seu próprio rosto, quando ele não está com um rosto que não é o seu ele não tem um rosto. Ele mal pode ser considerado humano, o mesmo já viveu varias vidas, estendendo a sua propria sempre tomando o  rosto de pessoas novas assim mantendo sua joventude. Ele tem controlado o país por traz das cortinas, montando-o como uma peça de teatro, poucos sabem da sua identidade verdadeira e menos pessoas ainda sabem do seu plano.
+
+<h3>Aprosopon, o homem de mil faces - Habilidades</h3>
+	Ele consegue roubar o rosto de uma pessoa ao cobrir-lo com sua mão, quando ele veste um rosto ele ganha conhecimentos gerais sobre a vida da pessoa e sua aparência física é igual à da pessoa. Ele não  tem limite de tempo de uso de um rosto, mas quaisquer danos são irreversíveis, e acabam mostrando a pele dele por baixo. Os rostos roubados envelhecem normalmente, enquanto ele estiver com um rosto roubado o corpo dele não envelhece desde que seu corpo original não esteja muito exposto. Ele não pode usar máscaras, caso ele use, consequências graves acontecerão com ele.
