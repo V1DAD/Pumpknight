@@ -17,18 +17,21 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 	<center><h2>Sistema</h2></center>
 <hr>
 
-<h3>Objetos  Amaldiçoados</h3>
+<h3>Faces Inanimadas</h3>
 	Quando se coloca  um objeto em sua face ou na sua cabeça que cubra a sua face e você usa o mesmo como um rosto   para representar algo que não é você, como um personagem, um alter ego ou um outro ser ele tem uma chace de se tornar amaldicoado, te entregando o que vc desejava naquele momento de uma forma contorcida, isso acontece em grandes momentos da vida da pessoa botando aquele objeto, criando um lembrete permanente daquele evento.
 
 <h3>Mascaras</h3>
 	Ao usar uma máscara não para personificar um outro ser mas apenas como uma ferramenta ou acessório você ganha parcialmente as habilidades daquilo que a máscara representa. Uso repetido de uma máscara só acaba dando ao usuário características daquilo que a máscara representa. Uso de várias máscaras diferentes faz seu rosto lentamente ficar genérico, perdendo suas feições únicas se tornando uma pessoa mediana da sua raça, as pessoas que sofrem isso ficam com rostos iguais, exceto por coisas como cicatrizes que não são naturais do rosto.
 
+<h3>Objetos encantados</h3>
+	Objetos com rostos neles, quando tratados como algo com uma personalidade, um ego, eles podem ganhar alguma propriedade do rosto(s), sendo influenciadas pela "personalidade" do objeto. Objetos com rostos mesmo sem esse tratamento tem a chance de ganhar uma propriedade aleatória do rosto que está nele.
+
+<h3>Bonecos Mascarados</h3>
+	Quando se coloca uma face em um boneco da especie da face ele ganha a aparência física completa do ser daquela face. Esses bonecos podem ser conscientes, mas pelo fato de não serem vivos eles não cansam,envelhecem,sentem fome,sede,etc. Caso eles sejam machucados esse machudado é permanente, se o rosto for danificado suficientemente a mascara é desfeita.
+
 <hr>
 	<center><h2>Mundo</h2></center>
 <hr>
-
-<h3>Ladrões de rosto</h3>
-	seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.
 
 <h3>Tecnologia e desenvolvimento</h3>
 	Grandes centros como capitais são industrializadas ao nível da primeira revolução industrial, o resto das cidades são em sua maioria pre revolução industial.
@@ -40,7 +43,17 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 	Cidades em geral tentam ser autossuficientes pois comércio entre cidades não é suficiente para troca de quantidades largas de bens, devido ao uso extenso de carroagens e dos perigos de seres mágicos e outras pessoas
 
 <hr>
-	<center><h2>Personagens</h2></center>
+<center><h2>Criaturas</h2></center>
+<hr>
+
+<h3>Ladrões de rosto</h3>
+	seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.
+
+<h3>Desfaçados</h3>
+	Seres mágicos que copiam a aparência física de seres que eles comem, exceto pelo rosto, que é só um buraco vazio. Sua aparência sem copiar a aparência de um outro ser é de um ser esfera de sombras com quatro pernas muito articuladas, nesse estado eles são oportunistas enquanto pequenos, procurando animais dormindo a sós e os enforca até a morte, quando eles ficam maiores eles são mais agressivos e tentam achar criaturas que garantam mais alimento fácil. Eles tentam imitar por meio de observação, evitando mostrar seu rosto para outros, eles tem a inteligência proxima a de um corvo. É possível domesticar-los.
+
+<hr>
+<center><h2>Personagens</h2></center>
 <hr>
 
 <h3>Pumpkinght - Origem</h3>
