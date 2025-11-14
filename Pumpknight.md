@@ -102,3 +102,14 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 
 <h3>Aprosopon, o homem de mil faces - Personalidade</h3>
 	Um homem ganancioso que aje de forma calculada, ele fará o que for necessário para alcançar o seu objetivo. Toda relação que ele tem é com algum objetivo, sempre para conseguir algo. Enquanto ele está com um rosto ele é um ator impecável, maioria das pessoas não conseguiria distinguir ele e a pessoa original.
+
+<hr>
+
+<h3>Elizabeth Jeweler - Origem</h3>
+	Uma mulher vinda de uma familia de joalheiros em uma cidade grande, ela decidiu abandonar a tradição em busca de algo que ela realmente goste, foi aí que ela descobriu o boxing, e ela se encontrou naquele esporte, eventualmente o dinheiro que ela saiu de casa com se esgotou pelo fato do esporte não pagar bem, foi aí que ela decidiu tentar entrar para a defesa da cidade, se tornando uma caçadora de seres mágicos. Depois de um tempo ela chegou a conhecer o Pumpknight e eles viraram amigos
+
+<h3>Elizabeth Jeweler - Habilidades</h3>
+	Experiente em combate físico, usa um par de manoplas de combate metálicas com o rosto de gorilas em cada uma dela, Kong e King. Quando usadas elas aumentam a força dos socos e de pegada.
+
+<h3>Elizabeth Jeweler - Personalidade</h3>
+	Uma mulher cabeça quente e trabalhadora que gosta de aproveitar os luxos da vida.
