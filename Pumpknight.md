@@ -18,15 +18,17 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <hr>
 
 <h3>Faces Inanimadas</h3>
-	Quando se coloca  um objeto em sua face ou na sua cabeça que cubra a sua face e você usa o mesmo como um rosto   para representar algo que não é você, como um personagem, um alter ego ou um outro ser ele tem uma chace de se tornar amaldicoado, te entregando o que vc desejava naquele momento de uma forma contorcida, isso acontece em grandes momentos da vida da pessoa botando aquele objeto, criando um lembrete permanente daquele evento.
+	Quando se coloca  um objeto em sua face ou na sua cabeça que cubra a sua face e você usa o mesmo como um rosto   para representar algo que não é você, como um personagem, um alter ego ou um outro ser ele tem uma chace de se tornar amaldicoado, te entregando o que vc desejava naquele momento de uma forma contorcida, isso acontece em grandes momentos da vida da pessoa botando aquele objeto, criando um lembrete permanente daquele evento.<br>
+	Elas em geral dão habilidades que tem haver com o objeto que elas são e com o evento que levou a elas serem colocadas. De forma geral elas melhoram as capacidades física dos portadores.
 
 <h3>Mascaras</h3>
-	Ao usar uma máscara não para personificar um outro ser mas apenas como uma ferramenta ou acessório você ganha parcialmente as habilidades daquilo que a máscara representa. Uso repetido de uma máscara só acaba dando ao usuário características daquilo que a máscara representa. Uso de várias máscaras diferentes faz seu rosto lentamente ficar genérico, perdendo suas feições únicas se tornando uma pessoa mediana da sua raça, as pessoas que sofrem isso ficam com rostos iguais, exceto por coisas como cicatrizes que não são naturais do rosto.
-
+	Ao usar uma máscara não para personificar um outro ser mas apenas como uma ferramenta ou acessório você ganha parcialmente as habilidades daquilo que a máscara representa. Uso repetido de uma máscara só acaba dando ao usuário características daquilo que a máscara representa. Uso de várias máscaras diferentes faz seu rosto lentamente ficar genérico, perdendo suas feições únicas se tornando uma pessoa mediana da sua raça, as pessoas que sofrem isso ficam com rostos iguais, exceto por coisas como cicatrizes que não são naturais do rosto.<br>
+	Pessoas podem voluntariamente fazer uma mascara virar o seu rosto, isso pode servir para dar uma caracteristica dela para outras pessoas que usarem a mesma mascara
+	
 <h3>Objetos encantados</h3>
 	Objetos com rostos neles, quando tratados como algo com uma personalidade, um ego, eles podem ganhar alguma propriedade do rosto(s), sendo influenciadas pela "personalidade" do objeto. Objetos com rostos mesmo sem esse tratamento tem a chance de ganhar uma propriedade aleatória do rosto que está nele.
 
-<h3>Bonecos Mascarados</h3>
+<h3>Manequins</h3>
 	Quando se coloca uma face em um boneco da especie da face ele ganha a aparência física completa do ser daquela face. Esses bonecos podem ser conscientes, mas pelo fato de não serem vivos eles não cansam,envelhecem,sentem fome,sede,etc. Caso eles sejam machucados esse machudado é permanente, se o rosto for danificado suficientemente a mascara é desfeita.
 
 <hr>
@@ -40,17 +42,21 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 	Cidades em geral tem muralhas ao redor delas para manter os ladrões de rosto fora dela, com controle de entrada e saída estrito para não permitir que um entre e cause caos.<br>
 	Plantações se encontram no exterior das muralhas para que tenham campos abertos ao redor de tais para manter os ladrões de rosto longe da entrada assim garantindo que haja tempo para fechar a cidade.<br>
 	Cidades crescem ou de forma planejada, primeiro fazendo uma muralha ao redor da área de expansão para depois poder construirem industrias,comércios e casa, ou de forma não planejada, primeiro fazendo as casas, comércios e industrias e depois fazendo uma muralha ao redor.<br>
-	Cidades em geral tentam ser autossuficientes pois comércio entre cidades não é suficiente para troca de quantidades largas de bens, devido ao uso extenso de carroagens e dos perigos de seres mágicos e outras pessoas
+	Cidades em geral tentam ser autossuficientes pois comércio entre cidades não é suficiente para troca de quantidades largas de bens, devido ao uso extenso de carroagens e dos perigos de seres mágicos e outras pessoas.
 
 <hr>
 <center><h2>Criaturas</h2></center>
 <hr>
 
 <h3>Ladrões de rosto</h3>
-	seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.
+	seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.<br>
+	Eles são sensíveis à luz uv e odeiam fogo.
 
-<h3>Desfaçados</h3>
-	Seres mágicos que copiam a aparência física de seres que eles comem, exceto pelo rosto, que é só um buraco vazio. Sua aparência sem copiar a aparência de um outro ser é de um ser esfera de sombras com quatro pernas muito articuladas, nesse estado eles são oportunistas enquanto pequenos, procurando animais dormindo a sós e os enforca até a morte, quando eles ficam maiores eles são mais agressivos e tentam achar criaturas que garantam mais alimento fácil. Eles tentam imitar por meio de observação, evitando mostrar seu rosto para outros, eles tem a inteligência proxima a de um corvo. É possível domesticar-los.
+<h3>Multifaceados</h3>
+	Seres com múltiplas faces, eles tem características dos seres de forma monstruosa, eles são frutos das ações de ladrões de rosto, isso é irreversível . Essas criaturas são sobrenaturalmente forte devido ao fato de que eles tem multiplas faces, e em geral tem um nível de agressão maior. Isso causa uma quantidade de sofrimento gigante para a criatura base que recebeu os outros rostos, os outros rostos podem ou não ter controle sob o corpo ou partes dele.
+
+<h3>Hibridos</h3>
+	seres que tiveram sua face original trocada por uma de um ser de especie diferente. Eles tendem a pegar caracteristicas de ambos, tendo preferencia às da criatura base, esse processo é lento e indolor.
 
 <hr>
 <center><h2>Personagens</h2></center>
