@@ -48,10 +48,14 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <hr>
 
 <h3>Ladrões de rosto</h3>
-	Seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.
+	seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.<br>
+	Eles são sensíveis à luz uv e odeiam fogo.
 
-<h3>Desfaçados</h3>
-	Seres mágicos que copiam a aparência física de seres que eles comem, exceto pelo rosto, que é só um buraco vazio. Sua aparência sem copiar a aparência de um outro ser é de um ser esfera de sombras com quatro pernas muito articuladas, nesse estado eles são oportunistas enquanto pequenos, procurando animais dormindo a sós e os enforca até a morte, quando eles ficam maiores eles são mais agressivos e tentam achar criaturas que garantam mais alimento fácil. Eles tentam imitar por meio de observação, evitando mostrar seu rosto para outros, eles tem a inteligência proxima a de um corvo. É possível domesticar-los.
+<h3>Multifaceados</h3>
+	Seres com múltiplas faces, eles tem características dos seres de forma monstruosa, eles são frutos das ações de ladrões de rosto, isso é irreversível . Essas criaturas são sobrenaturalmente forte devido ao fato de que eles tem multiplas faces, e em geral tem um nível de agressão maior. Isso causa uma quantidade de sofrimento gigante para a criatura base que recebeu os outros rostos, os outros rostos podem ou não ter controle sob o corpo ou partes dele.
+
+<h3>Hibridos</h3>
+	seres que tiveram sua face original trocada por uma de um ser de especie diferente. Eles tendem a pegar caracteristicas de ambos, tendo preferencia às da criatura base, esse processo é lento e indolor.
 
 <hr>
 <center><h2>Personagens</h2></center>
