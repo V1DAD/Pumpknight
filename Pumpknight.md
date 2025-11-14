@@ -17,32 +17,31 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 	<center><h2>Sistema</h2></center>
 <hr>
 
-<h3>Faces Inanimadas</h3>
-	Quando se coloca  um objeto em sua face ou na sua cabeça que cubra a sua face e você usa o mesmo como um rosto   para representar algo que não é você, como um personagem, um alter ego ou um outro ser ele tem uma chace de se tornar amaldicoado, te entregando o que vc desejava naquele momento de uma forma contorcida, isso acontece em grandes momentos da vida da pessoa botando aquele objeto, criando um lembrete permanente daquele evento.<br>
-	Elas em geral dão habilidades que tem haver com o objeto que elas são e com o evento que levou a elas serem colocadas. De forma geral elas melhoram as capacidades física dos portadores.
+<h3>Faces Inanimadas:</h3>
+	Ao cobrir sua face com um objeto, você usa o mesmo como um rosto. Estes novos rostos servem para representar algo que não é você, como um personagem, um alter ego ou um outro ser, e por esse processo a sua nova face tem uma chace de se tornar amaldiçoada, te entregando o que você desejava naquele momento de uma forma contorcida. Normalmente, esse fenômeno acontece em grandes momentos da vida de um indivíduo ao colocar aquele objeto, criando um lembrete permanente daquele evento.
 
-<h3>Mascaras</h3>
-	Ao usar uma máscara não para personificar um outro ser mas apenas como uma ferramenta ou acessório você ganha parcialmente as habilidades daquilo que a máscara representa. Uso repetido de uma máscara só acaba dando ao usuário características daquilo que a máscara representa. Uso de várias máscaras diferentes faz seu rosto lentamente ficar genérico, perdendo suas feições únicas se tornando uma pessoa mediana da sua raça, as pessoas que sofrem isso ficam com rostos iguais, exceto por coisas como cicatrizes que não são naturais do rosto.<br>
-	Pessoas podem voluntariamente fazer uma mascara virar o seu rosto, isso pode servir para dar uma caracteristica dela para outras pessoas que usarem a mesma mascara
-	
-<h3>Objetos encantados</h3>
-	Objetos com rostos neles, quando tratados como algo com uma personalidade, um ego, eles podem ganhar alguma propriedade do rosto(s), sendo influenciadas pela "personalidade" do objeto. Objetos com rostos mesmo sem esse tratamento tem a chance de ganhar uma propriedade aleatória do rosto que está nele.
+<h3>Máscaras como acessórios:</h3>
+	Ao usar uma máscara não para personificar um outro ser mas apenas como uma ferramenta ou acessório, o usuário ganha apenas parcialmente as habilidades daquilo que a máscara representa.
+	Usar máscaras também vem com efeitos colaterais. O uso repetido de uma máscara acaba dando ao usuário características corporais e de personalidade daquilo que a máscara representa. Ademais, o uso de várias máscaras diferentes faz seu rosto lentamente ficar "genérico", ou seja, perdendo suas feições únicas se tornando uma pessoa mediana da sua raça. As pessoas que sofrem isso ficam com rostos iguais, exceto por coisas irreversíveis como cicatrizes.
+
+<h3>Objetos encantados:</h3>
+	Objetos com rostos, feitos de quaisquer formas, quando tratados como algo com uma personalidade, um ego, eles podem ganhar alguma propriedade do(s) rosto(s), sendo influenciadas pela "personalidade" do objeto. É possível criar um obeto encantado sem a presença de uma pessoa lhe dando personalidade, porém é menos comum. Objetos criados dessa forma tem a chance de ganhar uma propriedade aleatória do rosto que está nele.
 
 <h3>Manequins</h3>
-	Quando se coloca uma face em um boneco da especie da face ele ganha a aparência física completa do ser daquela face. Esses bonecos podem ser conscientes, mas pelo fato de não serem vivos eles não cansam,envelhecem,sentem fome,sede,etc. Caso eles sejam machucados esse machudado é permanente, se o rosto for danificado suficientemente a mascara é desfeita.
+	Quando se coloca uma face ou máscara em objetos humanóides inanimados eles ganham a aparência física completa do ser daquela face. Esses bonecos podem ser conscientes, mas pelo fato de não serem seres vivos, não cansam, envelhecem, sentem fome, sede, etc. Danos feitos a manequins também acabam sendo permanentes, e se o rosto for danificado suficientemente a mascara é desfeita, retornando o objeto a seu estado inanimado.
 
 <hr>
 	<center><h2>Mundo</h2></center>
 <hr>
 
 <h3>Tecnologia e desenvolvimento</h3>
-	Grandes centros como capitais são industrializadas ao nível da primeira revolução industrial, o resto das cidades são em sua maioria pre revolução industial.
+	Grandes centros como capitais são industrializadas ao nível da primeira revolução industrial, o resto das cidades são em sua maioria pré-revolução industial.
 
 <h3>Estrutura das cidades e funcionamento de tais</h3>
-	Cidades em geral tem muralhas ao redor delas para manter os ladrões de rosto fora dela, com controle de entrada e saída estrito para não permitir que um entre e cause caos.<br>
-	Plantações se encontram no exterior das muralhas para que tenham campos abertos ao redor de tais para manter os ladrões de rosto longe da entrada assim garantindo que haja tempo para fechar a cidade.<br>
-	Cidades crescem ou de forma planejada, primeiro fazendo uma muralha ao redor da área de expansão para depois poder construirem industrias,comércios e casa, ou de forma não planejada, primeiro fazendo as casas, comércios e industrias e depois fazendo uma muralha ao redor.<br>
-	Cidades em geral tentam ser autossuficientes pois comércio entre cidades não é suficiente para troca de quantidades largas de bens, devido ao uso extenso de carroagens e dos perigos de seres mágicos e outras pessoas.
+	Cidades em geral tem um aspecto levemente feudal, com muralhas as cercando para manter os chamados "ladrões de rosto" fora de seus ecossistemas. O processo de entrar e sair de uma cidade ocorre com controle estrito para não permitir que um entre e cause caos.<br>
+	Fora das muralhas, plantações podem ser encontradas com o propósito secundário de que hajam campos abertos e de alta visibilidade dos muros, a fim de manter os ladrões de rosto longe.<br>
+	Cidades crescem ou de forma planejada, primeiro fazendo uma muralha ao redor da área de expansão para depois construirem industrias ,comércios e residências, ou de forma não planejada, primeiro fazendo as casas, comércios e industrias e depois fazendo uma muralha ao redor. Por conta disso, é comum que, quando vistas de cima por um mapa, as cidades pareçam ter diversas "bolhas" que são chamadas de distritos.<br>
+	Cidades em geral tentam ser autossuficientes pois comércio entre cidades não é suficiente para troca de quantidades largas de bens, devido ao uso extenso de carroagens e dos perigos de seres mágicos e outras pessoas mal intencionadas.
 
 <hr>
 <center><h2>Criaturas</h2></center>
