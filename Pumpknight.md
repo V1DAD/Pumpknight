@@ -27,17 +27,17 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <h3>Objetos encantados:</h3>
 	Objetos com rostos, feitos de quaisquer formas, quando tratados como algo com uma personalidade, um ego, eles podem ganhar alguma propriedade do(s) rosto(s), sendo influenciadas pela "personalidade" do objeto. É possível criar um obeto encantado sem a presença de uma pessoa lhe dando personalidade, porém é menos comum. Objetos criados dessa forma tem a chance de ganhar uma propriedade aleatória do rosto que está nele.
 
-<h3>Manequins</h3>
+<h3>Manequins:</h3>
 	Quando se coloca uma face ou máscara em objetos humanóides inanimados eles ganham a aparência física completa do ser daquela face. Esses bonecos podem ser conscientes, mas pelo fato de não serem seres vivos, não cansam, envelhecem, sentem fome, sede, etc. Danos feitos a manequins também acabam sendo permanentes, e se o rosto for danificado suficientemente a mascara é desfeita, retornando o objeto a seu estado inanimado.
 
 <hr>
 	<center><h2>Mundo</h2></center>
 <hr>
 
-<h3>Tecnologia e desenvolvimento</h3>
+<h3>Tecnologia e desenvolvimento:</h3>
 	Grandes centros como capitais são industrializadas ao nível da primeira revolução industrial, o resto das cidades são em sua maioria pré-revolução industial.
 
-<h3>Estrutura das cidades e funcionamento de tais</h3>
+<h3>Estrutura e funcionamento das cidades:</h3>
 	Cidades em geral tem um aspecto levemente feudal, com muralhas as cercando para manter os chamados "ladrões de rosto" fora de seus ecossistemas. O processo de entrar e sair de uma cidade ocorre com controle estrito para não permitir que um entre e cause caos.<br>
 	Fora das muralhas, plantações podem ser encontradas com o propósito secundário de que hajam campos abertos e de alta visibilidade dos muros, a fim de manter os ladrões de rosto longe.<br>
 	Cidades crescem ou de forma planejada, primeiro fazendo uma muralha ao redor da área de expansão para depois construirem industrias ,comércios e residências, ou de forma não planejada, primeiro fazendo as casas, comércios e industrias e depois fazendo uma muralha ao redor. Por conta disso, é comum que, quando vistas de cima por um mapa, as cidades pareçam ter diversas "bolhas" que são chamadas de distritos.<br>
@@ -47,15 +47,15 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <center><h2>Criaturas</h2></center>
 <hr>
 
-<h3>Ladrões de rosto</h3>
-	seres mágicos que roubam o rosto de pessoas, deixando uma face lisa no lugar, maioria das pessoas morrem sufocadas. Eles precisam que seu rosto esteja visível pra roubar-lo. São caçadores oportunistas, em sua maioria solitários, quando eles roubam o seu rosto eles podem usar-lo para atrair outras pessoas. Ao roubar um rosto eles ganham uma noção leve sobre a vida da pessoa. Eles são inteligentes o suficiente pra imitar uma pessoa caso tenham um rosto, eles são tipo fadas.<br>
-	Eles são sensíveis à luz uv e odeiam fogo.
+<h3>Ladrões de rosto:</h3>
+	Seres mágicos semelhantes a fadas que roubam o rosto de pessoas. São caçadores oportunistas, em sua maioria solitários, que ao roubarem um rosto ganham uma noção leve sobre a vida da vítima. Eles são inteligentes o suficiente pra imitar a pessoa a qual roubaram o rosto, e usam disso para atrair novas presas. Para se ter um rosto roubado pelas criaturas, é preciso apenas que seu rosto esteja visível e processo deixa uma pele lisa no lugar, o que acaba fazendo com que a maioria das vítimas morram sufocadas. 
+	Eles também são sensíveis à luz UV e odeiam fogo.<br>
 
 <h3>Multifaceados</h3>
-	Seres com múltiplas faces, eles tem características dos seres de forma monstruosa, eles são frutos das ações de ladrões de rosto, isso é irreversível . Essas criaturas são sobrenaturalmente forte devido ao fato de que eles tem multiplas faces, e em geral tem um nível de agressão maior. Isso causa uma quantidade de sofrimento gigante para a criatura base que recebeu os outros rostos, os outros rostos podem ou não ter controle sob o corpo ou partes dele.
+	Seres de características monstruosas com múltiplas faces que são frutos das ações de ladrões de rosto. Essas criaturas são sobrenaturalmente fortes devido ao fato de terem multiplas faces, e em geral tem um nível de agressão maior. A junção de várias outras faces em uma criatura causa uma quantidade de sofrimento gigante, e os outros rostos podem ou não ter controle sob o corpo ou partes dele. O processo é irreversível. 
 
 <h3>Hibridos</h3>
-	seres que tiveram sua face original trocada por uma de um ser de especie diferente. Eles tendem a pegar caracteristicas de ambos, tendo preferencia às da criatura base, esse processo é lento e indolor.
+	Seres que tiveram sua face original trocada por uma de um ser de especie diferente. Eles tendem a pegar caracteristicas de ambos, tendo preferencia às da criatura base, esse processo é lento e indolor.
 
 <hr>
 <center><h2>Personagens</h2></center>
