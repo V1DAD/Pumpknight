@@ -87,7 +87,8 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 	Ele estava na linha da forca por trafico humano e por padrão nesse mundo, eles cobriram seu rosto, no momento que ele ia ser enforcado a coisa que ele mais queria era ver as expressões das pessoas assistindo e a reação de tais, mesmo elas não sabendo quem ele era e qual era a sua expressão, ele sacrificaria tudo para poder ter uma última visão dessas. No instante que o chão saiu de baixo dos seus pés ele teve uma breve visão da plateia, curta demais para apreciar, e quando a corda fechou ao redor de seu pescoço ele foi sugado para dentro do saco, saindo em um outro saco idêntico em algum lugar aleatório, frustado com a gosto de paraíso que lhe foi tomado da sua lingua, agora tendo que viver no que seria uma tortura por ter que viver sem que os outros vejam as suas expressões e rosto, o que ele considera a alma humana.
 
 <h3>Homem dos Sacos - Habilidades</h3>
-	Se ele fechar o saco de sua cabeça ele é engolindo e sai de outro saco aleatorio que seja igual ao de sua cabeça que esteja aberto.
+	Se ele fechar o saco de sua cabeça ele é engolindo e sai de outro saco aleatório
+	que seja igual ao de sua cabeça e que esteja aberto.
 
 <h3>Homem dos Sacos - Personalidade</h3>
 	Ele é um sadista que ver prazer nas expressões dos outros, quanto mais extremas prazer ele tira disso, ele não ver os sem rostos como humanos e não tem interesse algum neles. Ele não gosta de conflito e sempre que se encontra em um ele tende a fugir. Ele é cauteloso sobre por onde anda e evita aparecer em publico devido à sua fuga da sua execução, ele é um criminoso procurado.
@@ -124,3 +125,14 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 
 <h3>Lupus Wolfgang - Personalidade</h3>
 	Ela é uma pessoa estrita enquanto está trabalhando, quando ela está no seu tempo livre ela gosta de relaxar, ver amigos, beber e comer.
+
+<hr>
+
+<h3>Norman Masker - Origem</h3>
+	Ele é um usuário de mascaras, ele é vindo duma familia especializada na manufatura de mascaras. Ele decidiu ir para as linhas de frente pois ele cansou de ser mais uma engrenagem na máquina que é a familia dele, ele queria ver como aquilo que fazia era usado e como ele poderia fazer mascaras melhores para aquilo.
+
+<h3>Norman Masker - Habilidades</h3>
+	Ele usa mascaras para poder compensar a sua falta de experiência e treinamento, ele é um combatente de longo alcance, ele mosquetões e bestas. Em caças mais fáceis ele testa máscaras experimentais, tentando ver se é possivel usar mascaras de objetos inanimados.
+
+<h3>Norman Masker - Personalidade</h3>
+	Ele é uma pessoa dedicada à sua paixão por mascaras e ele é curioso, sempre disposto a descobrir e experimentar coisas novas. Ele tem dificuldade em se relacionar com outros por usar boa parte do seu tempo livre para a sua paixão, mas caso voce consiga se aproximar dele ele é um amigo leal.
