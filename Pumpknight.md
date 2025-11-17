@@ -18,7 +18,7 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <hr>
 
 <h3>Faces Inanimadas:</h3>
-	Ao cobrir sua face com um objeto, você usa o mesmo como um rosto. Estes novos rostos servem para representar algo que não é você, como um personagem, um alter ego ou um outro ser, e por esse processo a sua nova face tem uma chace de se tornar amaldiçoada, te entregando o que você desejava naquele momento de uma forma contorcida. Normalmente, esse fenômeno acontece em grandes momentos da vida de um indivíduo ao colocar aquele objeto, criando um lembrete permanente daquele evento.
+	Ao cobrir sua face com um objeto e você usa o mesmo como um rosto para representar algo que não é você, como um personagem, um alter ego ou um outro ser, e por esse processo a sua nova face tem uma chace de se tornar amaldiçoada, te entregando o que você desejava naquele momento de uma forma contorcida. Normalmente, esse fenômeno acontece em grandes momentos da vida de um indivíduo ao colocar aquele objeto, criando um lembrete permanente daquele evento. Individuos em geral ganham poderes que tenham haver com o objeto e alguma capacidade física melhorada. Quando um objeto vira um rosto ele ganha todas funções necessárias de um rosto, como visão, respiração, alimentação e caso cubra as orelhas, audição.
 
 <h3>Máscaras como acessórios:</h3>
 	Ao usar uma máscara não para personificar um outro ser mas apenas como uma ferramenta ou acessório, o usuário ganha apenas parcialmente as habilidades daquilo que a máscara representa.
@@ -35,7 +35,7 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <hr>
 
 <h3>Tecnologia e desenvolvimento:</h3>
-	Grandes centros como capitais são industrializadas ao nível da primeira revolução industrial, o resto das cidades são em sua maioria pré-revolução industial.
+	Grandes centros como capitais são industrializadas ao nível da primeira revolução industrial, o resto das cidades são em sua maioria pré-revolução industrial.
 
 <h3>Estrutura e funcionamento das cidades:</h3>
 	Cidades em geral tem um aspecto levemente feudal, com muralhas as cercando para manter os chamados "ladrões de rosto" fora de seus ecossistemas. O processo de entrar e sair de uma cidade ocorre com controle estrito para não permitir que um entre e cause caos.<br>
@@ -55,28 +55,28 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 	Seres de características monstruosas com múltiplas faces que são frutos das ações de ladrões de rosto. Essas criaturas são sobrenaturalmente fortes devido ao fato de terem multiplas faces, e em geral tem um nível de agressão maior. A junção de várias outras faces em uma criatura causa uma quantidade de sofrimento gigante, e os outros rostos podem ou não ter controle sob o corpo ou partes dele. O processo é irreversível. 
 
 <h3>Hibridos</h3>
-	Seres que tiveram sua face original trocada por uma de um ser de especie diferente. Eles tendem a pegar caracteristicas de ambos, tendo preferencia às da criatura base, esse processo é lento e indolor.
+	Seres que tiveram sua face original trocada por uma de um ser de especie diferente. Eles tendem a pegar caracteristicas de ambos, tendo preferência às da criatura base, esse processo é lento e indolor.
 
 <hr>
 <center><h2>Personagens</h2></center>
 <hr>
 
 <h3>Pumpkinght - Origem</h3>
-	quando criança sempre usava uma abóbora na cabeça para brincar que era um cavaleiro. Um dia, durante um eclipse solar, que faz os ladrões de rosto ficarem mais ativos e agressivos, seu vilarejo é atacado, ele estava brincando como normal, no momento que ele estava prestes a colocar uma abóbora na sua cabeça uma onda de ladrões de rostos surge da floresta, seu rosto é roubado, e no mesmo instante ele solta a abóbora e ela cobre a sua cabeça e oq antes era o seu rosto e por sorte ou azar a abóbora vira seu substituto, o mantendo vivo. Depois que o eclipse passou, quase todos morreram, só ele e mais umas pessoas que estavam com rostos cobertos ou cortaram uma boca para respirar sobreviveram. Os sobreviventes tiveram que abandonar o vilarejo, pegando tudo de valor para ir para o vilarejo mais proximo, o mesmo se encontra no mesmo estado, eles pegam o que der de suprimentos e vão para o proximo, essa jornada continua até chegarem em uma cidade grande que tem recebido pessoas no mesmo estado que o grupo do pumpkinght. Aqueles que conseguiram sobreviver à jornada longa tentam se adaptar e esse integrar na cidade, aqueles sem rosto fazem trabalhos manuais que não dependem  da visão, aqueles que não perderam seus rostos tentam achar quaisquer trabalhos, para o pumpkinght foi diferente do resto, ele foi detido  logo nos portões da cidade por ser um amaldiçoado. 
+	quando criança sempre usava uma abóbora na cabeça para brincar que era um cavaleiro. Um dia, durante um eclipse solar, que faz os ladrões de rosto ficarem mais ativos e agressivos, seu vilarejo é atacado, ele estava brincando como normal, no momento que ele estava prestes a colocar uma abóbora na sua cabeça uma onda de ladrões de rostos surge da floresta, seu rosto é roubado, e no mesmo instante ele solta a abóbora e ela cobre a sua cabeça e oq antes era o seu rosto e por sorte ou azar a abóbora vira seu substituto, o mantendo vivo. Depois que o eclipse passou, quase todos morreram.
 
 <h3>Pumpkinght - Personalidade</h3>
-	tem problemas de identidade, devido ao seu rosto ser uma lembrança constante da pior época da sua vida, ele odeia ladroes de rosto
+	tem problemas de identidade, devido ao seu rosto ser uma lembrança constante da pior época da sua vida, ele odeia ladroes de rosto. Ele é amigável mas evita interagir com pessoas do nada pelo fato que maioria das pessoas que não o conhecem tem medo dele. Ele gosta de ler.
 
-<h3>Pumpkinght - situação atual</h3>
-	trabalha como caçador de criaturas mágicas e tenta achar uma forma de recuperar o seu rosto original, ele come, enxerga e respira pelos buracos da abóbora, a mesma sendo indestruitvel e impossivel de remover, ela basicamente faz parte do corpo dele. Ele tem treinamento em combate com espadas, caso ele esteja sem nenhuma arma ele usa cabeçadas, devido à situação abstrata de sua cabeça ele não sofre concussões, seu pescoço é muito forte.
+<h3>Pumpkinght - Habilidades</h3>
+	A abóbora é indestrutível, e devido à sua situação de ter tido sua quantidade de rostos negativada ao botar a abóbora na sua cabeça a abóbora não virou um rosto propriamente dito. O interior da abóbora contem algo abstrato, tem todos os componentes de um rosto mas sem ser um rosto, isso faz com que ele seja imune a concussões e tontura. Ele tem resistência sobrehumana, seu campo de visão é limitado pelo fato que ele tem que enxergar de dentro da abóbora. Ele é treinado para combate corpo a corpo e com espadas.
 
 <hr>
 
 <h3>Pothead - Origem e Identidade</h3>
-	Ele tem um pote na cabeça, ele pode tirar-lo a qualaquer momento mas não faz isso. Ele era um soldado que gostava da guerra por que lhe dava liberdade para lutar e matar, depois que a guerra acabou ele decidiu que não queria voltar para a vida de paz e abandonou tudo e botou um pote na cabeça para apagar qualquer referencia à sua vida antiga, virando um ser novo que almeja somente a adrenalina da batalha, rejeitando sua humanidade voluntariamente.
+	Ele tem um pote na cabeça, ele pode tirar-lo a qualquer momento mas não faz isso. Ele era um soldado que gostava da guerra por que lhe dava liberdade para lutar e matar, depois que a guerra acabou ele decidiu que não queria voltar para a vida de paz e abandonou tudo e botou um pote na cabeça para apagar qualquer referencia à sua vida antiga, virando um ser novo que almeja somente a adrenalina da batalha, rejeitando sua humanidade voluntariamente.
 
 <h3>Pothead - Habilidades</h3>
-	Enquanto tiver com o pote na cabeça ele tem habilidades físicas sobrehumanas , se ele entrar em combate sua fome e sede são satisfeitas durante a luta.
+	Enquanto tiver com o pote na cabeça ele tem habilidades físicas sobrehumanas, mas seu corpo é frágil, se ele entrar em combate sua fome e sede são satisfeitas durante a luta.
 
 <h3>Pothead - Personalidade</h3>
 	Ele busca somente a batalha, enquanto ele não estiver lutando ele vaga pelo mundo, se a luta for boa ele talvez não te mate caso você perca para ele, isso é uma excessão muito rara. Ele não usa roupas além de uma cueca por que ele gosta da adrenalina de todo ataque recebido poder ser letal, ele se lembra de todas as suas cicatrizes e o que causou elas.
@@ -84,7 +84,7 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <hr>
 
 <h3>Homem dos Sacos - Origem e Identidade</h3>
-	Ele estava na linha da forca por trafico humano e por padrão nesse mundo, eles cobriram seu rosto, no momento que ele ia ser enforcado a coisa que ele mais queria era ver as expressões das pessoas assistindo e a reação de tais, mesmo elas não sabendo quem ele era e qual era a sua expressão, ele sacrificaria tudo para poder ter uma última visão dessas. No instante que o chão saiu de baixo dos seus pés ele teve uma breve visão da plateia, curta demais para apreciar, e quando a corda fechou ao redor de seu pescoço ele foi sugado para dentro do saco, saindo em um outro saco identico em algum lugar aleatório, frustado com a gosto de paraíso que lhe foi tomado da sua lingua, agora tendo que viver no que seria uma tortura por ter que viver sem que os outros vejam as suas expressões e rosto, o que ele considera a alma humana.
+	Ele estava na linha da forca por trafico humano e por padrão nesse mundo, eles cobriram seu rosto, no momento que ele ia ser enforcado a coisa que ele mais queria era ver as expressões das pessoas assistindo e a reação de tais, mesmo elas não sabendo quem ele era e qual era a sua expressão, ele sacrificaria tudo para poder ter uma última visão dessas. No instante que o chão saiu de baixo dos seus pés ele teve uma breve visão da plateia, curta demais para apreciar, e quando a corda fechou ao redor de seu pescoço ele foi sugado para dentro do saco, saindo em um outro saco idêntico em algum lugar aleatório, frustado com a gosto de paraíso que lhe foi tomado da sua lingua, agora tendo que viver no que seria uma tortura por ter que viver sem que os outros vejam as suas expressões e rosto, o que ele considera a alma humana.
 
 <h3>Homem dos Sacos - Habilidades</h3>
 	Se ele fechar o saco de sua cabeça ele é engolindo e sai de outro saco aleatorio que seja igual ao de sua cabeça que esteja aberto.
@@ -112,4 +112,15 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 	Experiente em combate físico, usa um par de manoplas de combate metálicas com o rosto de gorilas em cada uma dela, Kong e King. Quando usadas elas aumentam a força dos socos e de pegada.
 
 <h3>Elizabeth Jeweler - Personalidade</h3>
-	Uma mulher cabeça quente e trabalhadora que gosta de aproveitar os luxos da vida.
+	Uma mulher de personalidade forte, ela gosta de aproveitar os luxos da vida que ela consegue pelo seu trabalho duro, ela ama boxing.
+
+<hr>
+
+<h3>Lupus Wolfgang - Origem</h3>
+	Era uma caçadora normal até que um dia sua proteção facial foi danificada, expondo seu rosto, permitindo que um ladrão de rostos roube o seu rosto, ela teve que cortar uma boca para poder respirar, seu parceiro no grupo de caça a encontrou e tentou salvar a vida e carreira dela usando um método certeiro de recuperar a visão dela, ele forçou um ladrão de rostos que ele capturou a botar um rosto nela, e assim ela ganha o seu rosto de lobo. Atualmente ela é a líder do grupo de caça do Pumpknight.
+
+<h3>Lupus Wolfgang - Habilidades</h3>
+	Caçadora experiente, tem os sentidos aguçados de um lobo e é fisicamente mais forte que uma pessoa normal, suas unhas são naturalmente afiadas.
+
+<h3>Lupus Wolfgang - Personalidade</h3>
+	Ela é uma pessoa estrita enquanto está trabalhando, quando ela está no seu tempo livre ela gosta de relaxar, ver amigos, beber e comer.
