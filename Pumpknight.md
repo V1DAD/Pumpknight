@@ -96,7 +96,7 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 <hr>
 
 <h3>Aprosopon, o homem de mil faces -  Origem e Identidade</h3>
-	Um homem ganancioso que se apropriou do poder dos ladrões de rosto, nem ele mesmo se lembra do seu próprio rosto, quando ele não está com um rosto que não é o seu ele não tem um rosto. Ele mal pode ser considerado humano, o mesmo já viveu varias vidas, estendendo a sua propria sempre tomando o  rosto de pessoas novas assim mantendo sua joventude. Ele tem controlado o país por traz das cortinas, montando-o como uma peça de teatro, poucos sabem da sua identidade verdadeira e menos pessoas ainda sabem do seu plano.
+	Ao presenciar o poder da Guardiã ele desejou ter-lo, e para isso ele decidiu se dedicar completamente e até sacrificar sua humanidade para tal, desde esse momento tudo que ele tem feito tem isso em prol disso. Ele sozinho tem acelerado o desenvolvimento da sociedade, impulsionando ideias novas e o avanço tecnológico, em prol do seu plano para conseguir um poder capaz de rivalizar o da guardiã.
 
 <h3>Aprosopon, o homem de mil faces - Habilidades</h3>
 	Ele consegue roubar o rosto de uma pessoa ao cobrir-lo com sua mão, quando ele veste um rosto ele ganha conhecimentos gerais sobre a vida da pessoa e sua aparência física é igual à da pessoa. Ele não  tem limite de tempo de uso de um rosto, mas quaisquer danos são irreversíveis, e acabam mostrando a pele dele por baixo. Os rostos roubados envelhecem normalmente, enquanto ele estiver com um rosto roubado o corpo dele não envelhece desde que seu corpo original não esteja muito exposto. Ele não pode usar máscaras, caso ele use, consequências graves acontecerão com ele. Ele consegue dar rostos também.
@@ -136,3 +136,15 @@ Sistema de magia soft, pessoas com objetos na cabeça são chamados de amaldiço
 
 <h3>Norman Masker - Personalidade</h3>
 	Ele é uma pessoa dedicada à sua paixão por mascaras e ele é curioso, sempre disposto a descobrir e experimentar coisas novas. Ele tem dificuldade em se relacionar com outros por usar boa parte do seu tempo livre para a sua paixão, mas caso voce consiga se aproximar dele ele é um amigo leal.
+
+<hr>
+
+<h3>Faelis, a guardiã - Identidade</h3>
+	A origem de todos os ladrões de rostos da região, um ser que existe há milênios, ela mantém a ordem e protege a floresta, ela odeia os centros metropolitanos e industriais e aqueles que cheiram a coisas artificiais. Ela faz parte do folclore local e é vista como um sinal de infortuna próxima quando avistada, maior parte das pessoas não acham que ela é real. 
+
+<h3>Faelis, a guardiã - Habilidades</h3>
+	Ela possui milhões de rostos de pessoas, animais e seres fictícios, sua força bruta e resistência é imensa. Ela tem todas as habilidades de um ladrão de rostos e também as habilidades dos rostos que ela tem.
+	Devido à quantidade de vários rostos de seres fictícios como divindades de várias religiões diferentes com funções similares ela acaba tendo a capacidade de fazer coisas como manipular o ambiente e criar coisas, mas cada vez que ela usa isso consome rostos.
+
+<h3>Faelis, a guardiã - Personalidade</h3>
+	Em geral ela é gentil com aquilo que ela se importa e impiedosa com aquilo que ela desgosta.
